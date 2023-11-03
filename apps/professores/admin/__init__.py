@@ -1,0 +1,1 @@
+from .professores import ProfessoresAdmin

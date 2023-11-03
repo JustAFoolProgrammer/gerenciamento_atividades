@@ -1,0 +1,1 @@
+from .atividades import Atividades
